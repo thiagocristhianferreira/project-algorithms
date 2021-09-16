@@ -15,16 +15,7 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 - [Boas vindas ao repositório do projeto de Algorithms!](#boas-vindas-ao-repositório-do-projeto-de-algorithms)
 - [Sumário](#sumário)
 - [Habilidades](#habilidades)
-  - [Entregáveis](#entregáveis)
-    - [⚠️ É importante que seus arquivos tenham exatamente estes nomes! ⚠️](#️-é-importante-que-seus-arquivos-tenham-exatamente-estes-nomes-️)
   - [O que deverá ser desenvolvido](#o-que-deverá-ser-desenvolvido)
-  - [Desenvolvimento](#desenvolvimento)
-    - [Data de Entrega](#data-de-entrega)
-  - [Instruções para entregar seu projeto:](#instruções-para-entregar-seu-projeto)
-    - [ANTES DE COMEÇAR A DESENVOLVER:](#antes-de-começar-a-desenvolver)
-    - [Durante o desenvolvimento](#durante-o-desenvolvimento)
-  - [Linter](#linter)
-  - [Testes](#testes)
   - [Requisitos do projeto](#requisitos-do-projeto)
       - [1 - Número de estudantes estudando no mesmo horário (Algoritmo de busca)](#1---número-de-estudantes-estudando-no-mesmo-horário-algoritmo-de-busca)
       - [2 - Palíndromos (Recursividade)](#2---palíndromos-recursividade)
@@ -44,9 +35,6 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
     `Requisitos bônus:`
     - [4 - Encontrando números repetidos (Algoritmo de busca)](#4---encontrando-números-repetidos-algoritmo-de-busca)
     - [5 - Palíndromos (Iteratividade)](#5---palíndromos-iteratividade)
-- [Depois de terminar o desenvolvimento](#depois-de-terminar-o-desenvolvimento)
-- [Revisando um pull request](#revisando-um-pull-request)
-- [Avisos Finais](#avisos-finais)
 
 # Habilidades
 
