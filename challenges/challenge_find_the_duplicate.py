@@ -9,9 +9,4 @@ def find_duplicate(nums):
         if nums[i] == nums[i+1]:
             repeats += 1
             return nums[i]
-    return repeats_verify(repeats)
-
-
-def repeats_verify(repeats):
-    if repeats == 0:
-        return False
+    return repeats != 0
